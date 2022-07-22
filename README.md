@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evangelina</h1>
+<h1 align="center">Hi 👋, I'm Evangelina :blush:</h1>
 <h3 align="center">Full Stack Developer Jr from Tierra del Fuego, Argentina</h3>
 
 - 🌱 I’m currently learning **Redux, Docker**
